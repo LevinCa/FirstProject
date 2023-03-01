@@ -1,9 +1,10 @@
 public class Methods {
     public static void main(String[] args) {
 
-        String testString = "isdfhgirghthkefanjego";
+        String testString = "HalloLevin!";
 
         System.out.println(bothTrue(testString));
+        System.out.println(testString);
     }
 
     public static boolean stringBigger20(String s) {
