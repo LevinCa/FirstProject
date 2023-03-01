@@ -1,7 +1,7 @@
 public class Methods {
     public static void main(String[] args) {
 
-        String testString = "isdfhgirghjnothkefancykfjgeprjego";
+        String testString = "isdfhgirghthkefanjego";
 
         System.out.println(bothTrue(testString));
     }
